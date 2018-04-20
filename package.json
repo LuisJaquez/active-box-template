@@ -1,0 +1,19 @@
+{
+  "name": "active-box-template",
+  "version": "1.0.0",
+  "description": "Active box template clone",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisJaquez/active-box-template.git"
+  },
+  "author": "@LuisMJaquez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LuisJaquez/active-box-template/issues"
+  },
+  "homepage": "https://github.com/LuisJaquez/active-box-template#readme"
+}
